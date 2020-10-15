@@ -1,3 +1,3 @@
 # operates
 describes
-view @
+view @https://tosinyusuf.github.io/operates/.
