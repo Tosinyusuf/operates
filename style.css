@@ -61,7 +61,7 @@ img {
     margin: 0;
 }
 .hero-img {
-    background-image: url(/img/tik.jpg);
+    background-image: url(img/tik.jpg);
     background-repeat: no-repeat;  
      background-size: 100% 100%;
     background-position: cover;
@@ -78,7 +78,7 @@ img {
      width: 100%;    
 }
 .middle {
-    background-image: url(/img/bg-2.jpg);
+    background-image: url(img/bg-2.jpg);
     background-position: center center;
     background-repeat: no-repeat; 
     background-size: cover;
@@ -182,7 +182,7 @@ P {
     margin-top: 20px;
 }
 .road {
-    background-image: url(/img/road.jpg);
+    background-image: url(img/road.jpg);
     background-attachment: fixed;
     padding-bottom: 60px;
     padding-top: 60px;
