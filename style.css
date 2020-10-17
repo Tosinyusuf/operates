@@ -201,6 +201,9 @@ P {
     max-width: 900px; */
     /* margin-left: auto; */
 }
+Form {
+    Width: 100%;
+
 input {
     border: none;
    /* width: 95%;
