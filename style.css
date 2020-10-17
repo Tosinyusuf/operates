@@ -203,6 +203,8 @@ P {
 }
 Form {
     Width: 100%;
+    display:block;
+}
 
 input {
     border: none;
