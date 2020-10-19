@@ -16,9 +16,9 @@ img {
 .hamburger {
     position: fixed;
     cursor: pointer;
-    right: 2%;
+    right: 1%;
     top: 7%
-    transform: translate(-5%, -80%);
+    transform: translate(-60%, -80%);
     background-color: black;
     padding: 6px;
     border-radius: 5px;
