@@ -16,7 +16,7 @@ img {
 .hamburger {
     position: fixed;
     cursor: pointer;
-    right: 2%;
+    right: 1%;
     top: 7%
     transform: translate(-60%, -80%);
     background-color: black;
@@ -34,7 +34,7 @@ img {
     font-size: 10px;
     font-weight: 200px;
     top: 10%;
-    left: 13%;   
+    left: 23%;   
  }
  #nav-link a {
     display: block;
